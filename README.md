@@ -1,5 +1,7 @@
 # What is this?
 
+**Currently supported version of Airflow: 1.10.2**
+
 This contains the code to create the docker containers for the Webserver, the Scheduler and the Worker nodes for Airflow.
 
 The airflow-web path contains the code to generate a python 3.x(latest on Ubuntu 16.04) image of an airflow webserver.
